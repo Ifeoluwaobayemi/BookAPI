@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\bin\Debug\net6.0\BookApi.Core.deps.json
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\bin\Debug\net6.0\BookApi.Core.runtimeconfig.json
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\bin\Debug\net6.0\BookApi.Core.dll
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\bin\Debug\net6.0\BookApi.Core.pdb
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.AssemblyInfo.cs
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.dll
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\refint\BookApi.Core.dll
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.pdb
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\BookApi.Core.genruntimeconfig.cache
+C:\Users\Dell\source\repos\BookApi\BookApi.Core\obj\Debug\net6.0\ref\BookApi.Core.dll
